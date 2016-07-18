@@ -1,4 +1,4 @@
-Visit our [home page](http://taco.tools/) & [get started](http://taco.tools/docs/getting-started.html) in minutes!
+> Note: If you're looking for the `remotebuild` components, they have been moved to a new repo at https://github.com/Microsoft/remotebuild.
 
 # What is TACO?
 
