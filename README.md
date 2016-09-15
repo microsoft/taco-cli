@@ -1,4 +1,6 @@
-> Note: If you're looking for the `remotebuild` components, they have been moved to a new repo at https://github.com/Microsoft/remotebuild.
+> Note: This repo isn’t maintained anymore and it was relocated from the former [/taco](https://github.com/Microsoft/taco)
+repository (where you can still see the full commit history). The `remotebuild` components are still actively maintained
+and you may get the latest version from the [/remotebuild](https://github.com/Microsoft/remotebuild) repo.
 
 # What is TACO?
 
