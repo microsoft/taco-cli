@@ -1,6 +1,6 @@
-> Note: This repo isn’t maintained anymore and it was relocated from the former [/taco](https://github.com/Microsoft/taco)
-repository (where you can still see the full commit history). The `remotebuild` components are still actively maintained
-and you may get the latest version from the [/remotebuild](https://github.com/Microsoft/remotebuild) repo.
+### As of March 2019, this repo is no longer maintained by Microsoft. If you're interested in continuing this project, please feel free to fork it. As of March 2019, we will no longer monitor or respond to open issues. Thanks for your support!
+
+---
 
 # What is TACO?
 
